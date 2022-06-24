@@ -1,0 +1,12 @@
+/Users/swiperrr/RiderProjects/MindBoxTask/ShapesWorker/bin/Debug/net5.0/ShapesWorker.deps.json
+/Users/swiperrr/RiderProjects/MindBoxTask/ShapesWorker/bin/Debug/net5.0/ShapesWorker.dll
+/Users/swiperrr/RiderProjects/MindBoxTask/ShapesWorker/bin/Debug/net5.0/ref/ShapesWorker.dll
+/Users/swiperrr/RiderProjects/MindBoxTask/ShapesWorker/bin/Debug/net5.0/ShapesWorker.pdb
+/Users/swiperrr/RiderProjects/MindBoxTask/ShapesWorker/obj/Debug/net5.0/ShapesWorker.csproj.AssemblyReference.cache
+/Users/swiperrr/RiderProjects/MindBoxTask/ShapesWorker/obj/Debug/net5.0/ShapesWorker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swiperrr/RiderProjects/MindBoxTask/ShapesWorker/obj/Debug/net5.0/ShapesWorker.AssemblyInfoInputs.cache
+/Users/swiperrr/RiderProjects/MindBoxTask/ShapesWorker/obj/Debug/net5.0/ShapesWorker.AssemblyInfo.cs
+/Users/swiperrr/RiderProjects/MindBoxTask/ShapesWorker/obj/Debug/net5.0/ShapesWorker.csproj.CoreCompileInputs.cache
+/Users/swiperrr/RiderProjects/MindBoxTask/ShapesWorker/obj/Debug/net5.0/ShapesWorker.dll
+/Users/swiperrr/RiderProjects/MindBoxTask/ShapesWorker/obj/Debug/net5.0/ref/ShapesWorker.dll
+/Users/swiperrr/RiderProjects/MindBoxTask/ShapesWorker/obj/Debug/net5.0/ShapesWorker.pdb
